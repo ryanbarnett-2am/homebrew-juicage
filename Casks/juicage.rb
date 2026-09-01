@@ -2,8 +2,7 @@ cask "juicage" do
   version "1.6.3"
   sha256 "f4c2fd12540d5d010eb96f4f6bcec3f96d65ce17e76c119a39f8d2650a46a197"
 
-  url "https://github.com/ryanbarnett-2am/Juicage/releases/download/v#{version}/Juicage-#{version}.dmg",
-      verified: "github.com/ryanbarnett-2am/Juicage/"
+  url "https://github.com/ryanbarnett-2am/Juicage/releases/download/v#{version}/Juicage-#{version}.dmg"
   name "Juicage"
   desc "Menu bar meter for claude.ai usage and local LLM activity"
   homepage "https://github.com/ryanbarnett-2am/Juicage"
