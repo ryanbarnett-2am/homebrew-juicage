@@ -1,6 +1,6 @@
 cask "juicage" do
-  version "1.8"
-  sha256 "86157fd1da33d35bf2919f387978e74f1371be199b5e90d6ba0d20be3b404ea7"
+  version "1.8.1"
+  sha256 "c80e12c7461af3732c48d0a607721c796d76c33d5bf1b4eb4581589ff7589dd9"
 
   url "https://github.com/ryanbarnett-2am/Juicage/releases/download/v#{version}/Juicage-#{version}.dmg"
   name "Juicage"
